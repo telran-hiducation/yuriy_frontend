@@ -1,0 +1,42 @@
+.homeContainer{
+   margin-top: 10px;
+    padding-top: 120px;
+    width: 80%;
+    height: 770px;
+    background-color: #ebfafa;
+    color: darkgray;
+    /*border: 0.1vw solid darkgray;*/
+    /*display: flex;*/
+    /*align-content: center;*/
+}
+.homeDivEmpty{
+    margin-bottom: 200px;
+
+}
+.homeText1{
+    text-align: center;
+    font-size: 7vw;
+    color: #595959
+}
+.homeText2{
+    text-align: center;
+    font-size: 2vw;
+    color: #004466;
+}
+.homeText3{
+    margin-top: 5px;
+    text-align: center;
+    font-size: 1vw;
+    color: #595959;
+}
+.homeContainerVideo{
+    margin-top: 10px;
+    width: 60%;
+    height: 400px;
+    border: 0.1vw solid darkgray;
+}
+
+.homeVideo {
+    width: 100%;
+    height: auto;
+}

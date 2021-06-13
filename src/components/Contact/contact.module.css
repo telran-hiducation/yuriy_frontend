@@ -1,0 +1,19 @@
+.contactContainer{
+    margin-top: 10px;
+    padding-top: 10px;
+    width: 80%;
+    height: 670px;
+    background-color: #ebfafa;
+    color: #595959;
+    border: 0.1vw solid darkgray;
+
+}
+.contactText1{
+     text-align: center;
+     font-size: 4vw;
+ }
+.contactText2{
+    text-align: center;
+    font-size: 1.3vw;
+    color: #a6a6a6;
+}

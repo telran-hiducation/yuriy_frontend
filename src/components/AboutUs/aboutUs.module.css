@@ -1,0 +1,56 @@
+.aboutUsContainer{
+    margin-top: 10px;
+    padding-top: 10px;
+    width: 80%;
+    height: 1000px;
+    background-color: #ebfafa;
+    color: #595959;
+    border: 0.1vw solid darkgray;
+
+}
+.aboutUsContainerIn{
+    margin-top: 5px;
+    width: 99%;
+    height: 400px;
+    color: #595959;
+    /*border: 0.1vw solid darkgray;*/
+    display: flex;
+    justify-content: space-between;
+
+}
+.aboutUsContainerIn1{
+    margin-top: 5px;
+    width: 75%;
+    height: 210px;
+    color: #595959;
+    /*border: 0.1vw solid darkgray;*/
+}
+.aboutUsContainerIn2{
+    margin-top: 5px;
+    width: 25%;
+    height: 210px;
+    color: #595959;
+    /*border: 0.1vw solid darkgray;*/
+}
+
+.aboutUsText1{
+    text-align: center;
+    font-size: 4vw;
+}
+.aboutUsText2{
+    text-align: center;
+    font-size: 2vw;
+}
+.block{
+    width: 200px;
+    height: 200px;
+    background-image: url(../images/Einstein.jpeg);
+    background-size: 100% 200px;
+}
+.aboutUsContainerStories{
+    margin-top: 5px;
+    width: 100%;
+    height: 350px;
+    color: #595959;
+    border: 0.1vw solid darkgray;
+}

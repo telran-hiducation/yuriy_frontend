@@ -1,0 +1,14 @@
+.teamContainer{
+    margin-top: 10px;
+    padding-top: 10px;
+    width: 80%;
+    height: 670px;
+    background-color: #ebfafa;
+    color: #595959;
+    border: 0.1vw solid darkgray;
+
+}
+.teamText1{
+    text-align: center;
+    font-size: 4vw;
+}
