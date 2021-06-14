@@ -5,7 +5,7 @@
     height: 770px;
     background-color: #ebfafa;
     color: darkgray;
-    /*border: 0.1vw solid darkgray;*/
+    border: 0.1vw solid darkgray;
     /*display: flex;*/
     /*align-content: center;*/
 }

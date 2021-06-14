@@ -1,8 +1,8 @@
 .aboutUsContainer{
     margin-top: 10px;
-    padding-top: 10px;
+    padding-top: 120px;
     width: 80%;
-    height: 1000px;
+    height: 1100px;
     background-color: #ebfafa;
     color: #595959;
     border: 0.1vw solid darkgray;
@@ -10,20 +10,22 @@
 }
 .aboutUsContainerIn{
     margin-top: 5px;
+    padding-left: 20px;
     width: 99%;
     height: 400px;
     color: #595959;
-    /*border: 0.1vw solid darkgray;*/
+    border: 0.1vw solid darkgray;
     display: flex;
     justify-content: space-between;
 
 }
 .aboutUsContainerIn1{
     margin-top: 5px;
+    padding-right: 50px;
     width: 75%;
     height: 210px;
     color: #595959;
-    /*border: 0.1vw solid darkgray;*/
+    border: 0.1vw solid darkgray;
 }
 .aboutUsContainerIn2{
     margin-top: 5px;

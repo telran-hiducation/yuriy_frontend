@@ -1,14 +1,78 @@
-.teamContainer{
+.team{
     margin-top: 10px;
-    padding-top: 10px;
+    padding-top: 120px;
     width: 80%;
-    height: 670px;
+    height: 900px;
     background-color: #ebfafa;
     color: #595959;
     border: 0.1vw solid darkgray;
-
+    
+    
 }
+.teamContainer{
+    /*margin-top: 5px;*/
+    /*padding-top: 3px;*/
+    width: 99%;
+    height: 550px;
+    background-color: #ebfafa;
+    color: #595959;
+    /*border: 0.1vw solid darkgray;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    
+}
+
 .teamText1{
     text-align: center;
     font-size: 4vw;
+}
+.textInCardName{
+
+}
+.teamCardContainer{
+    margin-top: 15px;
+   width:500px;
+    height: 170px;
+    border: 0.1vw solid gray;
+    border-radius: 0.8vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+.teamCardContainerInImg{
+    width:160px;
+    height: 155px;
+    /*border: 0.1vw solid gray;*/
+    /*border-radius: 1vw;*/
+    background-image: url(../images/Einstein.jpeg);
+    background-size: 100% 150px;
+
+}
+.teamCardContainerInText{
+    width:300px;
+    height: 155px;
+    /*border: 0.1vw solid gray;*/
+    /*border-radius: 1vw;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    align-content: center;
+
+}
+.teamCardContainerInText1{
+    width: 299px;
+    height: 50px;
+    /*border: 0.1vw solid gray;*/
+}
+.teamCardContainerInText2{
+    padding-top: 10px;
+    width: 299px;
+    height: 100px;
+    /*border: 0.1vw solid gray;*/
 }
