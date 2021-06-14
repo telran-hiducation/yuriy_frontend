@@ -21,7 +21,7 @@
 .navbarContainerIn {
     margin: 0 auto;
     width: 84%;
-    height: 74px;
+    height: 80px;
     /*border: 0.1vw solid darkgray;*/
     display: flex;
     justify-content: space-between;
@@ -45,7 +45,7 @@
 .navbarList {
     margin: 0 auto;
     height: 60px;
-    width: 35%;
+    width: 50%;
     color: darkgray;
     /*border: 0.1vw solid darkgray;*/
     display: flex;
@@ -69,7 +69,7 @@
     margin: 0 auto;
     width: 90%;
     height: 45px;
-    border: 0.2vw solid #004466;
+    /*border: 0.2vw solid #004466;*/
     border-radius: 1.1vw;
     background-color: #ebfafa;
     color: #595959;

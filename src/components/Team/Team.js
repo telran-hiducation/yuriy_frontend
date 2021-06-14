@@ -3,7 +3,7 @@ import style from '../Team/team.module.css'
 
 const Team = () => {
     return (
-        <div className={style.team}>
+        <div id='team' className={style.team}>
             <p className={style.teamText1}>The Team</p>
             <div className={style.teamContainer}>
                 <div className={style.teamCardContainer}>

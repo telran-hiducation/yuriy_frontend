@@ -4,13 +4,13 @@ import style from '../Products/products.module.css';
 
 const Products = () => {
     return (
-        <div className={style.productsContainer}>
+        <div id='products' className={style.productsContainer}>
             <p className={style.productsText1}>
                 hiDucation Products
             </p>
             <div className={style.productsInput}>
                 <div class="input-group mb-3">
-                    <input type="text" class="form-control" placeholder="Topic"
+                    <input  type="text" class="form-control" placeholder="Topic"
                            aria-describedby="button-addon2"/>
 
                     <button class="btn btn-outline-secondary" type="button" id="button-addon2">Search</button>
